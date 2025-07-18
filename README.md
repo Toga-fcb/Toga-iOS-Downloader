@@ -8,7 +8,7 @@ Supports iPhone 7 → iPhone 16. Works on macOS and Windows.
 ## 💰 Buy Full Version
 
 Get the full source code, offline support, and usage instructions here:  
-👉 [https://gumroad.com/yourlink](https://gumroad.com/yourlink)
+👉 (https://togasky.gumroad.com/l/firmwaretool)
 
 ---
 
