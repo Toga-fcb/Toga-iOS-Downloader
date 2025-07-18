@@ -32,5 +32,7 @@ I also do freelance development on iOS/macOS tools.
 ## ⚠️ License
 
 This project is **not open source**.  
-You are not allowed to use, copy, modify, or distribute the code without permission.  
-If you're interested in licensing or collab, contact me.
+You are allowed to modify the code after you buy it, and can resell it afterwards however **ONLY MODIFIED VERSION**
+
+
+If you're interested in collab, do not hesitate to contact me.
